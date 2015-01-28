@@ -1,0 +1,22 @@
+{
+  "name": "maelstrom",
+  "version": "0.0.0",
+  "description": "A Javascript Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Comming soon!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knight-of-design/maelstrom-js.git"
+  },
+  "keywords": [
+    "maelstrom"
+  ],
+  "author": "James Knight <@knight-of-design>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knight-of-design/maelstrom-js/issues"
+  },
+  "homepage": "https://github.com/knight-of-design/maelstrom-js"
+}
