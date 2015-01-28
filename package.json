@@ -4,7 +4,7 @@
   "description": "A Javascript Experiment",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Comming soon!\" && exit 1"
+    "test": "echo \"Coming soon!\" && exit 1"
   },
   "repository": {
     "type": "git",
